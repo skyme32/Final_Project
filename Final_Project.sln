@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{31A4E7BF-8C7F-F3AE-8FE7-FC0E53764F0C}") = "Final_Project", "Assembly-CSharp-firstpass.csproj", "{A5E4F31F-FEC1-BF88-1879-755049C10908}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_Project", "Assembly-CSharp-firstpass.csproj", "{A5E4F31F-FEC1-BF88-1879-755049C10908}"
 EndProject
-Project("{31A4E7BF-8C7F-F3AE-8FE7-FC0E53764F0C}") = "Final_Project", "Assembly-CSharp-Editor.csproj", "{C90D44E8-52DA-4E52-C675-EEA6014BC580}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_Project", "Assembly-CSharp-Editor.csproj", "{C90D44E8-52DA-4E52-C675-EEA6014BC580}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
